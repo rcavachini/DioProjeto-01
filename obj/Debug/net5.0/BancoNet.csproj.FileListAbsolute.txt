@@ -1,0 +1,16 @@
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.exe
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.deps.json
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.runtimeconfig.json
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.runtimeconfig.dev.json
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.dll
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\ref\BancoNet.dll
+C:\DioBootCamps\BancoNet\BancoNet\bin\Debug\net5.0\BancoNet.pdb
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.csprojAssemblyReference.cache
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.AssemblyInfoInputs.cache
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.AssemblyInfo.cs
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.csproj.CoreCompileInputs.cache
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.dll
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\ref\BancoNet.dll
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.pdb
+C:\DioBootCamps\BancoNet\BancoNet\obj\Debug\net5.0\BancoNet.genruntimeconfig.cache
