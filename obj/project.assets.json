@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DioBootCamps\\BancoNet\\BancoNet\\BancoNet.csproj",
+      "projectUniqueName": "C:\\Users\\thedr\\OneDrive\\Programacao\\GitHub\\DioProjeto-01\\BancoNet.csproj",
       "projectName": "BancoNet",
-      "projectPath": "C:\\DioBootCamps\\BancoNet\\BancoNet\\BancoNet.csproj",
+      "projectPath": "C:\\Users\\thedr\\OneDrive\\Programacao\\GitHub\\DioProjeto-01\\BancoNet.csproj",
       "packagesPath": "C:\\Users\\thedr\\.nuget\\packages\\",
-      "outputPath": "C:\\DioBootCamps\\BancoNet\\BancoNet\\obj\\",
+      "outputPath": "C:\\Users\\thedr\\OneDrive\\Programacao\\GitHub\\DioProjeto-01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
